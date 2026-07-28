@@ -136,4 +136,4 @@ Azure AI
 
 Design Microsoft solutions that help workforce organizations replace disconnected spreadsheets with secure, scalable, AI-powered business applications.
 
-This repository will grow alongside my professional journey toward becoming a Microsoft Power Platform & AI Consultant.
+This repository will grow alongside my professional journey toward becoming a Microsoft Power Platform & AI Consultant.Microsoft Power Platform & AI Consultant.
