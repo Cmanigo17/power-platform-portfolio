@@ -1,3 +1,0 @@
-# Screenshots
-
-Application screenshots.
